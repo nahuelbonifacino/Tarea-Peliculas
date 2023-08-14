@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+
+.box-1{
+    width: 100%;
+    height: 100vh;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.seccion-1{
+    width: 35%;
+    height: 50vh;
+    text-align: center;
+    overflow: hidden;
+    position: relative;
+    margin: 1.5%;
+}
+
+.seccion-1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.seccion-1 .hover{
+    width: 0%;
+    height: 50vh;
+    background-color: rgba(82, 82, 82, 0.514);
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    transition: .5s all;
+}
+
+.hover h1{
+    color: aliceblue;
+    text-shadow: 1px 1px 1px black;
+    font-size: 2.5em;
+    text-transform: uppercase;
+}
+
+.seccion-1:hover .hover{
+    width: 100%;
+}
