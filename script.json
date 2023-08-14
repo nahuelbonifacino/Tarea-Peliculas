@@ -1,0 +1,15 @@
+[
+{
+  "titulo": "Oppenheimer",
+  "genero": ["Biografico", "Historia", "Suspenso"],
+  "protagonistas": [
+    {
+      "nombre": "Cillian Murphy",
+      "personaje": "Robert Oppenheimer"
+    }
+  ],
+  "año": 2023,
+  "duracion": 180,
+  "director": "Christopher Nolan"
+}
+]
