@@ -2,7 +2,7 @@
   {
     "titulo": "Nueve reinas",
     "genero": ["Drama", "Thriller", "Crimen"],
-    "image":"./images/Nueve_reinas-699348153-large.jpg",
+    "image": "./images/Nueve_reinas-699348153-large.jpg",
     "protagonistas": [
       {
         "nombre": "Ricardo Darín",
@@ -21,7 +21,7 @@
   {
     "titulo": "Fantastic Beasts",
     "genero": ["Fantasía", "Aventura"],
-    "image":"./images/Animales_fantásticos_y_dónde_encontrarlos_película_cartel_3.jpg",
+    "image": "./images/Animales_fantásticos_y_dónde_encontrarlos_película_cartel_3.jpg",
     "protagonistas": [
       {
         "nombre": "Eddie Redmayne",
@@ -31,68 +31,60 @@
     "año": 2016,
     "duracion": 133,
     "director": "David Yates"
-},
+  },
 
-{
-  "titulo": "Ready Player one",
-  "genero": ["Ciencia ficción"],
-  "image":"./images/player one.jpg",
-  "protagonistas": [
-    {
-      "nombre": "Tye Sheridan",
-      "personaje": "Parzival"
-    }
-  ],
-  "año": 2018,
-  "duracion": 140,
-  "director": "Steven Spielberg"
-},
+  {
+    "titulo": "Ready Player one",
+    "genero": ["Ciencia ficción"],
+    "image": "./images/player one.jpg",
+    "protagonistas": [
+      {
+        "nombre": "Tye Sheridan",
+        "personaje": "Parzival"
+      }
+    ],
+    "año": 2018,
+    "duracion": 140,
+    "director": "Steven Spielberg"
+  },
 
-{
-  "titulo": "Oppenheimer",
-  "genero": ["Biografico", "Historia", "Suspenso"],
-  "image":"./images/open.jpg",
-  "protagonistas": [
-    {
-      "nombre": "Cillian Murphy",
-      "personaje": "Robert Oppenheimer"
-    }
-  ],
-  "año": 2023,
-  "duracion": 180,
-  "director": "Christopher Nolan"
-},
+  {
+    "titulo": "Oppenheimer",
+    "genero": ["Biografico", "Historia", "Suspenso"],
+    "image": "./images/open.jpg",
+    "protagonistas": [
+      {
+        "nombre": "Cillian Murphy",
+        "personaje": "Robert Oppenheimer"
+      }
+    ],
+    "año": 2023,
+    "duracion": 180,
+    "director": "Christopher Nolan"
+  },
 
-{
-  "titulo": "The Lighthouse",
-  "genero":["Terror Psicológico"],
-  "image":"./images/faro.jpg",
-  "protagonistas":
-  [
-      {"nombre":"Williem DaFoe",
-      "personaje": "Thomas Wake"},
-      {"nombre":"Robert Pattinson",
-      "personaje": "Thomas Howard"}
-  ],
-"año": 2019,
-  "duracion": 109,
-  "director": "Robert Eggers"
-},
-{
-  "titulo": "Madagascar 3",
-  "genero":["Animación", "Aventura", "Comedia"],
-   "image":"./images/madagascar.jpg",
-  "protagonistas":
-  [
-      {"nombre":"Ben Stiller",
-      "personaje": "Alex"},
-      {"nombre":"Chris Rock",
-      "personaje": "Marty"}
-  ],
-"año": 2012,
-  "duracion": 95,
-  "director": "Eric Darnell"
-}
-
-
+  {
+    "titulo": "The Lighthouse",
+    "genero": ["Terror Psicológico"],
+    "image": "./images/faro.jpg",
+    "protagonistas": [
+      { "nombre": "Williem DaFoe", "personaje": "Thomas Wake" },
+      { "nombre": "Robert Pattinson", "personaje": "Thomas Howard" }
+    ],
+    "año": 2019,
+    "duracion": 109,
+    "director": "Robert Eggers"
+  },
+  {
+    "titulo": "Madagascar 3",
+    "genero": ["Animación", "Aventura", "Comedia"],
+    "image": "./images/madagascar.jpg",
+    "protagonistas": [
+      { "nombre": "Ben Stiller", "personaje": "Alex" },
+      { "nombre": "Chris Rock", "personaje": "Marty" }
+    ],
+    "año": 2012,
+    "duracion": 95,
+    "director": "Eric Darnell"
+  }
 ]
