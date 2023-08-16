@@ -36,7 +36,7 @@
   {
     "titulo": "Ready Player one",
     "genero": ["Ciencia ficción"],
-    "image": "./images/player one.jpg",
+    "image": "./images/player.jpg",
     "protagonistas": [
       {
         "nombre": "Tye Sheridan",
